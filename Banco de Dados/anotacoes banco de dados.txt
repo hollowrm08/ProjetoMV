@@ -1,0 +1,3 @@
+Anotações do Banco de Dados:
+
+> Lembrar de criar uma limitação no front end, na qual verifique que parcela deve ser >= 1

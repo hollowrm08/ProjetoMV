@@ -1,0 +1,23 @@
+Anotações:
+
++ O app tem um tutorial que demonstra as principais funções do app
+
++ O app tem o modo claro e escuro
+
++ O app tem cadastro de cartões de crédito
+
++ Quadro de principais dúvidas e demonstra respostas
+
++ O app disponibiliza diversos gráficos além de informações estáticas
+
++ O app tem uma interface visualmente agradável
+
++ O app permite que você estabeleça objetivos
+
++ O app permite que você estabeleça uma meta de gastos mensais
+
+- O app possui uma má distribuição dos atributos na página inicial
+
++ O app geral relatórios
+
+- A maioria dos recursos é pago (porém possui versão gratuita)
