@@ -18,7 +18,7 @@ create table tb_ProvedorPJ(
     primary key(id_provedor)
 )engine = InnoDB;
 
-create table tb_TransacoesPJ(
+create table tb_TransacaoPJ(
 	id_transacao integer auto_increment,
     nm_transacao varchar(30) not null,
     num_valor double not null,
@@ -43,7 +43,7 @@ create table tb_ProvedorPF(
     primary key(id_provedor)
 )engine = InnoDB;
 
-create table tb_TransacoesPF(
+create table tb_TransacaoPF(
 	id_transacao int auto_increment,
     nm_transacao varchar(30) not null,
     num_valor double not null,
