@@ -1,0 +1,48 @@
+Anotações:
+
+( APLICATIVO )
+
+- Pessoa Juridica não suportada
+
+- Contas Poupanças não suportadas
+
+- Caso possua renda variavel, o aplicativo não serve 100%
+
++ Radar de CPF
+
++ Agenda para boletos
+
++ Seções de Renda e Gastos separadas de forma intuitiva
+
++ Seção de Renda e Gastos possuem categorias para melhor organização de ambos
+
++ Seção de Renda e Gastos possuem além das categorias padrões a possibilidade de adicionar
+categorias personalizadas como "Trabalhos Extras" e etc.
+
++ Dá a opção de repetição de renda/gastos das categorias durante os meses
+
++ Te da liberdade de ser ou não notificado sobre as transações
+
++ Te permite manipular contas manuais de forma mais aprimorada que nos bancos
+
+-- Mal otimizado
+
+- Não possui tema escuro
+
+- Paleta de cores não agradevel
+
++ Guia para iniciantes 
+
+-- Seção de contato à suporte é extremamente escondida e mal posicionada
+
+- Não possui opção para excluir conta
+
+( WEB APP )
+
+-- Possui menos recursos que no APP movel ( Apenas seções Resumo, Extrato, gastos & rendas, contas e cartões )
+
+- Não tem tema escuro também
+
++ Possui seção para contatar o suporte 
+
++ Possui opção de exclusão da conta
